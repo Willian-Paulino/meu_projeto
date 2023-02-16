@@ -14,3 +14,7 @@ Este é um exemplo de projeto com git
 # Sei não fi
 
 batata
+
+# Shiba
+
+# Shiba Calvo
